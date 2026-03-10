@@ -1,0 +1,28 @@
+# Build outputs
+x64/
+Debug/
+Release/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.ncb
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+*.ilk
+*.pdb
+*.idb
+*.obj
+*.log
+*.tlog
+*.lastbuildstate
+*.recipe
+
+# Archives
+*.zip
+
+# Claude
+.claude/
